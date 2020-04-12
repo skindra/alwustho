@@ -3,4 +3,4 @@ Alwustho Resolusi
 - Belajar CodeIgniter
 - Belajar Laravel
 - Belajar React
-- Projek Jalan Terus
+- Projek Jalan dan dikembangkan
