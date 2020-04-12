@@ -1,6 +1,9 @@
 - javascript
  * ES6
+ * vue
+ *react
 - php framework
- *angular
- - laravel
+ *Laravel
+ *codeigniter
+ * fundamental data dasar
 
