@@ -1,4 +1,6 @@
 - javascript
  * ES6
 - php framework
- * fundamental data dasar
+ *angular
+ - laravel
+
