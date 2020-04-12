@@ -2,3 +2,5 @@ Alwustho Resolusi
 - Belajar GitHub
 - Belajar CodeIgniter
 - Belajar Laravel
+- Belajar React
+- Projek Jalan Terus
